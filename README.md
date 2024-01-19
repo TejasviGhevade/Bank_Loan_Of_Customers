@@ -8,9 +8,9 @@ Dataset Size: Each Excel file has 39k+ records
 There are 6 Key Performance Indicators (KPIs) to Visualise data driven insights and factors impacting business performance.
 Following:
 
-Year wise loan amount Stats.
-Grade and sub grade wise revolving Balance.
-Total Payment for Verified Status Vs Total Payment for Non Verified Status.
-State wise and month wise loan status.
-Home ownership Vs last payment date stats.
-Purpose wise count of customers and loan amount.
+1. Year wise loan amount Stats.
+2. Grade and sub grade wise revolving Balance.
+3. Total Payment for Verified Status Vs Total Payment for Non Verified Status.
+4. State wise and month wise loan status.
+5. Home ownership Vs last payment date stats.
+6. Purpose wise count of customers and loan amount.
